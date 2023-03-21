@@ -7,9 +7,6 @@ import React from "react";
 // Store / global Context
 import store from "../store/Context";
 
-// Eigene Komponente
-import Carousel from "../../../../../ausgelagerte-components/Carousel";
-
 //
 //
 //

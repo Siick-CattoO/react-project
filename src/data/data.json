@@ -1,21 +1,25 @@
 {
   "intro": {
+    "lash": "Intro",
     "title": "Herzlich Willkommen bei den nähverrückten Iggy-Moms",
     "info": "Hier ensteht eine kleine Welt voller Motivation, Inspiration, Elan und Stolz, Unterstützung und einer menge Humor :D. Unsere Mini-Community, so wie unsere Mini-Windhunde sind immer Feuer und Flamme für creative Ideen. Viel Spaß!",
     "bg": "#DBFF3A"
   },
   "collection": {
+    "lash": "Shop-Links",
     "title": "Shopping-Links",
     "info": "Fühle Dich frei um deine heißesten Einkaufs-Tipps mit der Community zu teilen",
     "bg": "#F3B33C"
   },
   "projects": {
-    "title": "DIY-Projekte",
+    "lash": "DIY",
+    "title": "Deine Projekte",
     "info": "Sei stolz und schamlso und zeige deine Werke, damit wir sie gemeinsam feiern können <3",
     "bg": "#5EDAC3"
   },
   "notes": {
-    "title": "Notizen",
+    "lash": "Notizen",
+    "title": "Deine Notizen",
     "info": "Deine Notizen sind das wichtigste Grundgerüst. Hier kannst du Deine kreativsten Geistesblitze sammeln und vielleicht kannst Du diese dann in einem Deiner Projekte umsetzen, oder sogar kombinieren.",
     "bg": "#D9C4FF"
   },

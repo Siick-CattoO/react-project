@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  width: 80vw;
+  margin: 10px auto 0;
+  padding: auto;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav a {
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-radius: 50% 50% 0 0;
+  color: black;
+
+  box-shadow: 1px -5px 10px -6px gray;  
+
+  height: 50px;
+  width: 25vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav a:hover {
+  color: grey;
+}

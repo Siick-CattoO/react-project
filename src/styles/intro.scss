@@ -1,0 +1,14 @@
+.intro-pics {
+display: flex;
+flex-wrap: wrap;
+
+img {
+    margin: 5px auto;
+    width: 20em;
+    height: 15em;
+
+    object-fit: cover;
+    object-position: center;
+  }
+}
+

@@ -1,0 +1,14 @@
+ol {
+    margin: 20px auto 10px;
+    padding: 10px;
+
+    li {
+        margin: 0.5em;
+        border-bottom: 1px solid black;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+}

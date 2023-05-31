@@ -1,6 +1,17 @@
-###  Project für das Modul: React
+### Backend-Projekt
 
-In nur knappen 2 Monaten haben wir in dem "Single Page Application"-Modul gelernt, wie man vom normalen JavaScript ein Projekt mit React JSX aufbauen kann.
+- Shop / DIY-Cards
+  > Card erstellen / hinzufügen & bearbeiten
 
-Hier folgen in den nächsten Tagen noch Screenshots und Erklärungen, mein Gehirn ist gerade leergecodet, daher braucht es ein wenig Zeit zum Rebooten :'D
+  > "Plus" Icon  ~~>  weiterleiten zum Erstellungs-Formular
 
+## Form
+- Bild hochladen
+- Überschrift
+- Info
+- evtl. Preis in € (Shop-Edition)
+- Button - Speichern
+
+## Speichern der Daten
+- MongoDB Database
+- Daten werden wieder angezeigt# DIY-uploader
